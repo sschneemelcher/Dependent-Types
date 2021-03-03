@@ -1,2 +1,2 @@
 # Dependent-Types
-My bachelors seminar thesis, dealing with dependent types and Coq
+Meine Bachelorseminararbeit über Dependent Types und das Beweistool Coq.
